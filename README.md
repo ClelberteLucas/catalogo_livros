@@ -13,7 +13,7 @@ Para a aplicação funcionar será necessario a instalação do POSTGRESQL, O IN
 
 
 
-------------------principal_livros------------------------
+-principal_livros:
  O arquivo principal_livros tem todas as configurações da janela de interação USUARIOxBANCO DE DADOS: Botões, funcões de manipulação de informações no banco de dados e o layout da janela
 
  A interface contem 5 campos para preencher no topo da janela:
@@ -33,7 +33,7 @@ A interface conta com 5 botões relacionado a funções no meio da janela:
 
 No final da janela, temos uma lista para exibir todos os registros presentes no banco de dados, usando uma *TreeviewSelect*
 
-------------------------def_livros-------------------------
+-def_livros:
 O arquivo def_livros estão as funções utilizadas pelo sistema principal (principal_livros).
 
 -Abrir Conexão
@@ -43,7 +43,7 @@ O arquivo def_livros estão as funções utilizadas pelo sistema principal (prin
 -Excluir dados
 -Buscar dados
 
-------------------tabela_livros------------------
+-tabela_livros:
 esse é o codigo que cria a tabela para guardar as informacões inseridas no banco de dados
 
 
