@@ -1,5 +1,5 @@
 Olá, meu nome é Clelberte.
-Esse codigo é relacionado a um projeto de extensão, que foi desenvolvido na Biblioteca da escola escola Mestre Paranhos.
+Esse codigo é relacionado a um projeto de extensão, que foi desenvolvido na Biblioteca da escola escola Mestre Paranhos, a escola ultilizava registros manuais para gerenciar seus livros, correndo alto risco de perda de informações e controle dos livros.
 Esse projeto de extensão é sem fins lucrativos, e tem como objetivo aplicar o conteúdo aprendido no curso no dia a dia das pessoas.
 
 
